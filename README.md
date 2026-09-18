@@ -1,4 +1,4 @@
-# ⚡ GridWise — LLM-Assisted Smart Campus Energy Optimization API
+# ⚡ GridWise — LLM-Assisted Smart Campus Energy Optimization API.
 
 BUP CSE Fest 2026 · Hackathon · Online Preliminary Round  
 **Team Solution Repository**
